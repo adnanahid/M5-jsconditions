@@ -1,6 +1,6 @@
-const mark = 78;
+const mark = 48;
 
-if ( mark >= 80 ) {
+if ( mark >= 80 && mark <=100 ) {
     console.log("A+");
 }
 else if ( mark >= 70 ) {
