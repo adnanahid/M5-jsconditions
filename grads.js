@@ -15,4 +15,3 @@ if (mark >= 80 && mark <= 100) {
 } else {
   console.log("Fail");
 }
-// ! todo nav section star here
